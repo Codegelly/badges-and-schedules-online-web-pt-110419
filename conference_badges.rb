@@ -12,7 +12,7 @@ end
   return new_array
 end 
 
-def assign_rooms()
+def assign_rooms(speakers)
   
-  
+  speakers.each do |name|
 end 
