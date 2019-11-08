@@ -9,5 +9,5 @@ end
     name.each do |name|
      array << "Hello, my name is #{name}."
   end 
-  return  "Hello, my name is #{name}."
+
 end 
