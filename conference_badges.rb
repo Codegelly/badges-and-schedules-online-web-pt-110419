@@ -6,8 +6,8 @@ end
   
   def batch_badge_creator(name)
     array = []
-    array.each do |name|
-     # array << "Hello, my name is #{name}."
+    name.each do |name|
+     array << "Hello, my name is #{name}."
   end 
   return  "Hello, my name is #{name}."
 end 
